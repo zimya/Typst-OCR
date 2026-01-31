@@ -11,3 +11,4 @@ wheels/
 ZhEn-Latex-OCR/
 *.tex
 *.typ
+mixtex_*
